@@ -1,0 +1,19 @@
+body {
+    background-color: white;
+}
+
+.coral {
+    background-color : lightcoral;
+}
+
+.boxDisplay {
+    border: 2px solid blue;
+    height:50px;
+    width:50px;
+    text-align: center;
+}
+
+boxDiv {
+    width:500px;
+    height: 500px;
+}
